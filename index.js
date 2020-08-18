@@ -40,6 +40,6 @@ function BotInit() {
     }
 }
 
-setInterval(BotInit, 60*1000)
+setInterval(BotInit, 5*60*1000)
 
 BotInit()
